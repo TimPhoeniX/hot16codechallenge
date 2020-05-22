@@ -10,6 +10,9 @@ Idea is the same, but tool is different. Let's show some 16 line code!
 Survive till the end of quarantine.
 Everyday you'll face the decision whether to stay at home or go out to get vital supplies. Can you survive?! Play now! https://timphoenix.github.io/hot16codechallenge/
 
+###
+This short game was coded in 16 lines of effectively obfuscated code.
+
 ### index.html (4 lines)
 ```html
 <!DOCTYPE html><html lang="en">
