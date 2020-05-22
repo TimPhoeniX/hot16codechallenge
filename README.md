@@ -5,3 +5,7 @@ https://www.siepomaga.pl/hot16challenge
 
 ## #hot16codechallenge
 Idea is the same, but tool is different. Let's show some 16 line code!
+
+## Survive the quarantine
+Survive till the end of quarantine.
+Everyday you'll face the decision whether to stay at home or go out to get vital supplies. Can you survive?!
